@@ -1,1 +1,1 @@
-![Airbnb Clone Backend Features Diagram](assets/airbnb_clone_project.svg)
+![Airbnb Clone Backend Features Diagram](airbnb_clone_project.svg)
